@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @craighaynes
 - 👀 I’m interested in building fun tools for music and pkm
-- 🌱 I’m currently learning coding from scratch (well kinda, I studied CS at uni but have forgotten it all)
+- 🐍 I am a Data / Analytics Engineer, I like Python and SQL
 - 📫 How to reach me: @craha on twitter
 
 <!---
